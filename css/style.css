@@ -102,8 +102,8 @@ footer {
 }
 
 .img-socmed img {
-	-webkit-filter: drop-shadow(5px 5px 10px rgb(102, 102, 102));
-	filter: drop-shadow(5px 5px 10px rgb(102, 102, 102));
+	-webkit-filter: drop-shadow(2px 5px 10px rgb(255, 255, 255));
+	filter: drop-shadow(2px 5px 10px rgb(255, 255, 255));
 }
 
 /* timeline */
